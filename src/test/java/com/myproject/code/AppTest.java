@@ -16,6 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
        
-       assertEquals("Helo World!",App.sentence());
+       assertEquals("Hello World!",App.sentence());
     }
 }
